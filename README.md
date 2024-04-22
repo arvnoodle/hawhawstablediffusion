@@ -1,5 +1,3 @@
-# Readme
-
 # Hawhaw Cat Stable Diffusion
 
 This project is a personalized Stable Diffusion model trained on photos of my beloved cat, Hawhaw, from when I was living in an apartment. (I miss him.)
