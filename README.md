@@ -2,7 +2,7 @@
 
 This project is a personalized Stable Diffusion model trained on photos of my beloved cat, Hawhaw, from when I was living in an apartment. (I miss him.)
 
-![IMG_3447.jpeg](Readme%209ffaf6daf16749e691157001d20e30b6/IMG_3447.jpeg)
+![IMG_3447.jpeg](wiki_images/IMG_3447.jpeg)
 
 ## Data
 
