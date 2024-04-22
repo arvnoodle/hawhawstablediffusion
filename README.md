@@ -33,7 +33,7 @@ The generated images of Hawhaw turned out quite decent given the data is not rea
 
 ## Errors Encountered
 
-Currently using a slightly version of the libraries due to some error below
+Currently using a slightly older version of the libraries due to some error below
 
 * [Exception training model: 'cannot import name 'text_encoder_lora_state_dict' from 'diffusers.loaders'](https://www.reddit.com/r/DreamBooth/comments/187llaj/exception_training_model_cannot_import_name_text/)
 
