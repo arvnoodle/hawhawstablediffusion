@@ -35,28 +35,28 @@ The generated images of Hawhaw turned out quite decent given the data is not rea
 
 Currently using a slightly version of the libraries due to some error below
 
-[Exception training model: 'cannot import name 'text_encoder_lora_state_dict' from 'diffusers.loaders'](https://www.reddit.com/r/DreamBooth/comments/187llaj/exception_training_model_cannot_import_name_text/)
+* [Exception training model: 'cannot import name 'text_encoder_lora_state_dict' from 'diffusers.loaders'](https://www.reddit.com/r/DreamBooth/comments/187llaj/exception_training_model_cannot_import_name_text/)
 
-[https://github.com/huggingface/diffusers/issues/4649](https://github.com/huggingface/diffusers/issues/4649)
+* [https://github.com/huggingface/diffusers/issues/4649](https://github.com/huggingface/diffusers/issues/4649)
 
-[mat1 and mat2 shapes cannot be multiplied](https://www.reddit.com/r/StableDiffusion/comments/11m57w1/mat1_and_mat2_shapes_cannot_be_multiplied/)
+* [mat1 and mat2 shapes cannot be multiplied](https://www.reddit.com/r/StableDiffusion/comments/11m57w1/mat1_and_mat2_shapes_cannot_be_multiplied/)
 
-[https://github.com/huggingface/diffusers/issues/5133](https://github.com/huggingface/diffusers/issues/5133)
+* [https://github.com/huggingface/diffusers/issues/5133](https://github.com/huggingface/diffusers/issues/5133)
 
-[https://github.com/huggingface/diffusers/issues?q=is%3Aissue+is%3Aopen+0.28.0.dev0](https://github.com/huggingface/diffusers/issues?q=is%3Aissue+is%3Aopen+0.28.0.dev0)
+* [https://github.com/huggingface/diffusers/issues?q=is%3Aissue+is%3Aopen+0.28.0.dev0](https://github.com/huggingface/diffusers/issues?q=is%3Aissue+is%3Aopen+0.28.0.dev0)
 
 Also newer version of diffuser in SDXL pipeline even with smaller models like SSD-1B, 8bit optimizers and fp16 precision (tested with Nvidia L4/T4) for some reason still experiencing OOM.
 
 ## Resources
 
-[Stable Diffusion text-to-image fine-tuning](https://huggingface.co/docs/diffusers/v0.13.0/en/training/text2image)
+* [Stable Diffusion text-to-image fine-tuning](https://huggingface.co/docs/diffusers/v0.13.0/en/training/text2image)
 
-[Using LoRA for Efficient Stable Diffusion Fine-Tuning](https://huggingface.co/blog/lora)
+* [Using LoRA for Efficient Stable Diffusion Fine-Tuning](https://huggingface.co/blog/lora)
 
-[DreamBooth fine-tuning with LoRA](https://huggingface.co/docs/peft/main/en/task_guides/dreambooth_lora)
+* [DreamBooth fine-tuning with LoRA](https://huggingface.co/docs/peft/main/en/task_guides/dreambooth_lora)
 
-[DreamBooth](https://huggingface.co/docs/diffusers/training/dreambooth)
+* [DreamBooth](https://huggingface.co/docs/diffusers/training/dreambooth)
 
-[SSD-1B Free Serverless API](https://www.segmind.com/models/ssd-1b)
+* [SSD-1B Free Serverless API](https://www.segmind.com/models/ssd-1b)
 
-[SSD-1B: Segmind Stable Diffusion Model That Changes Everything](https://anakin.ai/blog/ssd-1b/)
+* [SSD-1B: Segmind Stable Diffusion Model That Changes Everything](https://anakin.ai/blog/ssd-1b/)
