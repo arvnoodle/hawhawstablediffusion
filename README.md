@@ -3,7 +3,6 @@
 This project is a personalized Stable Diffusion model trained on photos of my beloved cat (Also my AI Intern) Hawhaw, from when I was living in an apartment. (I miss him.)
 
 ![IMG_3447.jpeg](wiki_images/IMG_3447.jpg)
-![majestic_hawhaw.jpg](wiki_images/majestic_hawhaw.jpg)
 ## Data
 
 The training data consists of a collection of photos of Hawhaw taken during our time living in the apartment. These photos capture various poses, expressions, and moments of Hawhaw's life.
@@ -60,3 +59,6 @@ Also newer version of diffuser in SDXL pipeline even with smaller models like SS
 * [SSD-1B Free Serverless API](https://www.segmind.com/models/ssd-1b)
 
 * [SSD-1B: Segmind Stable Diffusion Model That Changes Everything](https://anakin.ai/blog/ssd-1b/)
+
+## Extra hawhaw SD Majestic photos
+![majestic_hawhaw.jpg](wiki_images/majestic_hawhaw.jpg)
