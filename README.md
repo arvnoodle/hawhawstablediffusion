@@ -3,7 +3,7 @@
 This project is a personalized Stable Diffusion model trained on photos of my beloved cat (Also my AI Intern) Hawhaw, from when I was living in an apartment. (I miss him.)
 
 ![IMG_3447.jpeg](wiki_images/IMG_3447.jpg)
-
+![majestic_hawhaw.jpg](wiki_images/majestic_hawhaw.jpg)
 ## Data
 
 The training data consists of a collection of photos of Hawhaw taken during our time living in the apartment. These photos capture various poses, expressions, and moments of Hawhaw's life.
