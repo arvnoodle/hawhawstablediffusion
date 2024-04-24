@@ -60,5 +60,5 @@ Also newer version of diffuser in SDXL pipeline even with smaller models like SS
 
 * [SSD-1B: Segmind Stable Diffusion Model That Changes Everything](https://anakin.ai/blog/ssd-1b/)
 
-## Extra hawhaw SD Majestic photos
+## Extra Hawhaw SD Majestic photos
 ![majestic_hawhaw.jpg](wiki_images/majestic_hawhaw.jpg)
